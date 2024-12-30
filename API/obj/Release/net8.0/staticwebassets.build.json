@@ -1,0 +1,3009 @@
+{
+  "Version": 1,
+  "Hash": "bTGSM9nBsDbK5/cTJ+gtuc3AdN7RYgANziN8CREICSs=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-Cu_C0hZ4.svg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/brand-icons-Cu_C0hZ4#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zm6g5b7bg2",
+      "Integrity": "ZRmhWwgpS+OV7ZFMQCNrpgQhTLEWO1MRqYdfHfXu2G0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\brand-icons-Cu_C0hZ4.svg"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-F3SPCeH1.woff",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/brand-icons-F3SPCeH1#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hs2xw1g41m",
+      "Integrity": "n6/Ww+e/wUXbQqkG5fpo/mpvlyIfAT0+gz/DIxuZLEQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\brand-icons-F3SPCeH1.woff"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-sqJ2Pg7a.eot",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/brand-icons-sqJ2Pg7a#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4fdtjsx8ay",
+      "Integrity": "0CPFX94iBJXxOoe3KZXg35jI0ok1dymdGZ2lu/W0/gI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\brand-icons-sqJ2Pg7a.eot"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-ubhWoxly.ttf",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/brand-icons-ubhWoxly#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m6dgiljucm",
+      "Integrity": "QuNp3Iw3KXO6d6gmti0seiBwUyMT34MqIyiN23aXQVg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\brand-icons-ubhWoxly.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-XL9sxUpA.woff2",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/brand-icons-XL9sxUpA#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "31scot9y9f",
+      "Integrity": "59TVNAu+V6Adj3mSFC4nY9Q41Xg4kMdnSDBu6/oFamk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\brand-icons-XL9sxUpA.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\culture.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/categoryImages/culture#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pv5p9orxri",
+      "Integrity": "+xx4k12u1T6pyvnnFBANStSNtTiY7WxhcpAUbS84Puk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\categoryImages\\culture.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\drinks.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/categoryImages/drinks#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ptrbffhgcc",
+      "Integrity": "Y4OXfQmp7f+EpOaZ9iocI7XkUq7CGvXjLgW7PvI0tp4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\categoryImages\\drinks.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\film.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/categoryImages/film#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "91awhjxrhj",
+      "Integrity": "M1jsR2hj1dG43wOODDU2VLzzZm7TKeKf8PWmDF8EY40=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\categoryImages\\film.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\food.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/categoryImages/food#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fv06gk68tg",
+      "Integrity": "64ncJ5U0Brt/eImdvcleFioWX5aCq6ctez2+brsCgGA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\categoryImages\\food.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\music.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/categoryImages/music#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hjmh4uhyp",
+      "Integrity": "6ZLlKyfH2/r+Oghzkxpf4dqt2fwk9o7xcRibFmwcBPI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\categoryImages\\music.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\travel.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/categoryImages/travel#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hn0919ar31",
+      "Integrity": "jTC+JA8yncVTWE7tX8ZdlIClJ4QPGqIdrT0eb1iyGZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\categoryImages\\travel.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\flags-DOLqOU7Y.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/flags-DOLqOU7Y#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0v5juufe14",
+      "Integrity": "lNXH8WYTAcSm3Ekdct1VmgYgzZF6gm8N8bAju5bqnd0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\flags-DOLqOU7Y.png"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-BOCtAERH.woff",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/icons-BOCtAERH#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rcaksbfdzj",
+      "Integrity": "lbakhA+HEeyrQnvCNuuGCY235ceCuvsTnIwwgFql/+E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\icons-BOCtAERH.woff"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-CHzK1VD9.eot",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/icons-CHzK1VD9#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fngdxu4amp",
+      "Integrity": "i04bhH4iIz1PRn00+u/nvL/rzm+pu77lYMRc2JSGh1E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\icons-CHzK1VD9.eot"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-D29ZQHHw.ttf",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/icons-D29ZQHHw#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dakargohl2",
+      "Integrity": "y3+B9UL1xBiju7mtP5++eEFR0TsEzsUOzt7GATMko9o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\icons-D29ZQHHw.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-Du6TOHnR.woff2",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/icons-Du6TOHnR#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "plfff40fe0",
+      "Integrity": "Q0RmtZVFqKHKxt2zgZfNxrNZlamMPzgS+4jWGxwwDdM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\icons-Du6TOHnR.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-RwhydX30.svg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/icons-RwhydX30#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gedw61av4b",
+      "Integrity": "KCpk+2AM2sb/eQvQH5LdZx0QqYJ4zM9S+yJHmhiraTQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\icons-RwhydX30.svg"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\index-CFs73B3O.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-CFs73B3O#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ou7yvq4i6",
+      "Integrity": "B3UBHyE3VtEOTUCKZH2Gam2g0pTlkzJOHUNwq9ZJrU4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-CFs73B3O.js"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\index-s9bRAIC7.css",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-s9bRAIC7#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rifhgmc1gl",
+      "Integrity": "LW8ovGk5QhSSvVZjW9wT4n7e95rpjANEffS64N5jbnE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-s9bRAIC7.css"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\logo.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f5cdxhjv1z",
+      "Integrity": "wxMhKdZj0qVu0kgxl/J/bMD6zR/VL60DUWccwRdMN6o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-aQ88nltS.woff",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/outline-icons-aQ88nltS#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rwvjf3onq0",
+      "Integrity": "S8NZwnBXs+0LrKZtbFNJpdSmBQlvvHh1Bhui2Ro9bQU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\outline-icons-aQ88nltS.woff"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-BfdLr8tr.svg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/outline-icons-BfdLr8tr#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y0bm37js32",
+      "Integrity": "ro/QKnu4dHn+RqVB4upa9+NCOT6O+I01HNrxDOcc5gE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\outline-icons-BfdLr8tr.svg"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-DD8jm0uy.ttf",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/outline-icons-DD8jm0uy#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "35v72bnbwz",
+      "Integrity": "Zxchcur85FY3JeZhBD1duFS4Z2ip6L05dY2+gcR5aTU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\outline-icons-DD8jm0uy.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-DInHoiqI.woff2",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/outline-icons-DInHoiqI#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1vr1p7jex0",
+      "Integrity": "TSiDRDsk5CRSf2oKeqKJez33HyOdtANzxP92DkgUeAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\outline-icons-DInHoiqI.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-LX8adJ4n.eot",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/outline-icons-LX8adJ4n#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "htioedqc1p",
+      "Integrity": "RTf6BjQO5iwmTp16TYqryrPee9osXMM0AQ9GtoMQb8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\outline-icons-LX8adJ4n.eot"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\placeholder.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/placeholder#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dlbf4ut9r1",
+      "Integrity": "cbSUJUb5Tn92vGh9Fu4FaHmZGa727gSGcExC2DQ9DdY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\placeholder.png"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\user.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/user#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ihs5al52n",
+      "Integrity": "nWSw9JmPgIoXUUXDI/UBkdEhj2zsqD4RI15kcuogM1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\user.png"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\index.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l045ot0qby",
+      "Integrity": "azALMy8iP+eBlIeXImuaT5LidhnPxsEA5HT8R+OEiW0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\vite.svg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "vite#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69kjnsiwqx",
+      "Integrity": "SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vite.svg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/brand-icons-Cu_C0hZ4.svg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-Cu_C0hZ4.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "507628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRmhWwgpS+OV7ZFMQCNrpgQhTLEWO1MRqYdfHfXu2G0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRmhWwgpS+OV7ZFMQCNrpgQhTLEWO1MRqYdfHfXu2G0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/brand-icons-Cu_C0hZ4.zm6g5b7bg2.svg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-Cu_C0hZ4.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "507628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRmhWwgpS+OV7ZFMQCNrpgQhTLEWO1MRqYdfHfXu2G0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zm6g5b7bg2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/brand-icons-Cu_C0hZ4.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRmhWwgpS+OV7ZFMQCNrpgQhTLEWO1MRqYdfHfXu2G0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/brand-icons-F3SPCeH1.hs2xw1g41m.woff",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-F3SPCeH1.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n6/Ww+e/wUXbQqkG5fpo/mpvlyIfAT0+gz/DIxuZLEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hs2xw1g41m"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/brand-icons-F3SPCeH1.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n6/Ww+e/wUXbQqkG5fpo/mpvlyIfAT0+gz/DIxuZLEQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/brand-icons-F3SPCeH1.woff",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-F3SPCeH1.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n6/Ww+e/wUXbQqkG5fpo/mpvlyIfAT0+gz/DIxuZLEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n6/Ww+e/wUXbQqkG5fpo/mpvlyIfAT0+gz/DIxuZLEQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/brand-icons-sqJ2Pg7a.4fdtjsx8ay.eot",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-sqJ2Pg7a.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0CPFX94iBJXxOoe3KZXg35jI0ok1dymdGZ2lu/W0/gI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4fdtjsx8ay"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/brand-icons-sqJ2Pg7a.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0CPFX94iBJXxOoe3KZXg35jI0ok1dymdGZ2lu/W0/gI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/brand-icons-sqJ2Pg7a.eot",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-sqJ2Pg7a.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0CPFX94iBJXxOoe3KZXg35jI0ok1dymdGZ2lu/W0/gI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0CPFX94iBJXxOoe3KZXg35jI0ok1dymdGZ2lu/W0/gI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/brand-icons-ubhWoxly.m6dgiljucm.ttf",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-ubhWoxly.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QuNp3Iw3KXO6d6gmti0seiBwUyMT34MqIyiN23aXQVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m6dgiljucm"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/brand-icons-ubhWoxly.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QuNp3Iw3KXO6d6gmti0seiBwUyMT34MqIyiN23aXQVg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/brand-icons-ubhWoxly.ttf",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-ubhWoxly.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QuNp3Iw3KXO6d6gmti0seiBwUyMT34MqIyiN23aXQVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QuNp3Iw3KXO6d6gmti0seiBwUyMT34MqIyiN23aXQVg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/brand-icons-XL9sxUpA.31scot9y9f.woff2",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-XL9sxUpA.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"59TVNAu+V6Adj3mSFC4nY9Q41Xg4kMdnSDBu6/oFamk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "31scot9y9f"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/brand-icons-XL9sxUpA.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-59TVNAu+V6Adj3mSFC4nY9Q41Xg4kMdnSDBu6/oFamk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/brand-icons-XL9sxUpA.woff2",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\brand-icons-XL9sxUpA.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54488"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"59TVNAu+V6Adj3mSFC4nY9Q41Xg4kMdnSDBu6/oFamk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-59TVNAu+V6Adj3mSFC4nY9Q41Xg4kMdnSDBu6/oFamk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/categoryImages/culture.jpg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\culture.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xx4k12u1T6pyvnnFBANStSNtTiY7WxhcpAUbS84Puk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xx4k12u1T6pyvnnFBANStSNtTiY7WxhcpAUbS84Puk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/categoryImages/culture.pv5p9orxri.jpg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\culture.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xx4k12u1T6pyvnnFBANStSNtTiY7WxhcpAUbS84Puk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pv5p9orxri"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/categoryImages/culture.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xx4k12u1T6pyvnnFBANStSNtTiY7WxhcpAUbS84Puk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/categoryImages/drinks.jpg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\drinks.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y4OXfQmp7f+EpOaZ9iocI7XkUq7CGvXjLgW7PvI0tp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y4OXfQmp7f+EpOaZ9iocI7XkUq7CGvXjLgW7PvI0tp4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/categoryImages/drinks.ptrbffhgcc.jpg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\drinks.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y4OXfQmp7f+EpOaZ9iocI7XkUq7CGvXjLgW7PvI0tp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ptrbffhgcc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/categoryImages/drinks.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y4OXfQmp7f+EpOaZ9iocI7XkUq7CGvXjLgW7PvI0tp4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/categoryImages/film.91awhjxrhj.jpg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\film.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M1jsR2hj1dG43wOODDU2VLzzZm7TKeKf8PWmDF8EY40=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "91awhjxrhj"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/categoryImages/film.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M1jsR2hj1dG43wOODDU2VLzzZm7TKeKf8PWmDF8EY40="
+        }
+      ]
+    },
+    {
+      "Route": "assets/categoryImages/film.jpg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\film.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M1jsR2hj1dG43wOODDU2VLzzZm7TKeKf8PWmDF8EY40=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M1jsR2hj1dG43wOODDU2VLzzZm7TKeKf8PWmDF8EY40="
+        }
+      ]
+    },
+    {
+      "Route": "assets/categoryImages/food.fv06gk68tg.jpg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\food.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"64ncJ5U0Brt/eImdvcleFioWX5aCq6ctez2+brsCgGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fv06gk68tg"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/categoryImages/food.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-64ncJ5U0Brt/eImdvcleFioWX5aCq6ctez2+brsCgGA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/categoryImages/food.jpg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\food.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"64ncJ5U0Brt/eImdvcleFioWX5aCq6ctez2+brsCgGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-64ncJ5U0Brt/eImdvcleFioWX5aCq6ctez2+brsCgGA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/categoryImages/music.3hjmh4uhyp.jpg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\music.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6ZLlKyfH2/r+Oghzkxpf4dqt2fwk9o7xcRibFmwcBPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hjmh4uhyp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/categoryImages/music.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6ZLlKyfH2/r+Oghzkxpf4dqt2fwk9o7xcRibFmwcBPI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/categoryImages/music.jpg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\music.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6ZLlKyfH2/r+Oghzkxpf4dqt2fwk9o7xcRibFmwcBPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6ZLlKyfH2/r+Oghzkxpf4dqt2fwk9o7xcRibFmwcBPI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/categoryImages/travel.hn0919ar31.jpg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\travel.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTC+JA8yncVTWE7tX8ZdlIClJ4QPGqIdrT0eb1iyGZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hn0919ar31"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/categoryImages/travel.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jTC+JA8yncVTWE7tX8ZdlIClJ4QPGqIdrT0eb1iyGZA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/categoryImages/travel.jpg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\travel.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jTC+JA8yncVTWE7tX8ZdlIClJ4QPGqIdrT0eb1iyGZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jTC+JA8yncVTWE7tX8ZdlIClJ4QPGqIdrT0eb1iyGZA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/flags-DOLqOU7Y.0v5juufe14.png",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\flags-DOLqOU7Y.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28123"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lNXH8WYTAcSm3Ekdct1VmgYgzZF6gm8N8bAju5bqnd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0v5juufe14"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/flags-DOLqOU7Y.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lNXH8WYTAcSm3Ekdct1VmgYgzZF6gm8N8bAju5bqnd0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/flags-DOLqOU7Y.png",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\flags-DOLqOU7Y.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28123"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lNXH8WYTAcSm3Ekdct1VmgYgzZF6gm8N8bAju5bqnd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lNXH8WYTAcSm3Ekdct1VmgYgzZF6gm8N8bAju5bqnd0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/icons-BOCtAERH.rcaksbfdzj.woff",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-BOCtAERH.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lbakhA+HEeyrQnvCNuuGCY235ceCuvsTnIwwgFql/+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rcaksbfdzj"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/icons-BOCtAERH.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lbakhA+HEeyrQnvCNuuGCY235ceCuvsTnIwwgFql/+E="
+        }
+      ]
+    },
+    {
+      "Route": "assets/icons-BOCtAERH.woff",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-BOCtAERH.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lbakhA+HEeyrQnvCNuuGCY235ceCuvsTnIwwgFql/+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lbakhA+HEeyrQnvCNuuGCY235ceCuvsTnIwwgFql/+E="
+        }
+      ]
+    },
+    {
+      "Route": "assets/icons-CHzK1VD9.eot",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-CHzK1VD9.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i04bhH4iIz1PRn00+u/nvL/rzm+pu77lYMRc2JSGh1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i04bhH4iIz1PRn00+u/nvL/rzm+pu77lYMRc2JSGh1E="
+        }
+      ]
+    },
+    {
+      "Route": "assets/icons-CHzK1VD9.fngdxu4amp.eot",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-CHzK1VD9.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i04bhH4iIz1PRn00+u/nvL/rzm+pu77lYMRc2JSGh1E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fngdxu4amp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/icons-CHzK1VD9.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i04bhH4iIz1PRn00+u/nvL/rzm+pu77lYMRc2JSGh1E="
+        }
+      ]
+    },
+    {
+      "Route": "assets/icons-D29ZQHHw.dakargohl2.ttf",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-D29ZQHHw.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y3+B9UL1xBiju7mtP5++eEFR0TsEzsUOzt7GATMko9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dakargohl2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/icons-D29ZQHHw.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3+B9UL1xBiju7mtP5++eEFR0TsEzsUOzt7GATMko9o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/icons-D29ZQHHw.ttf",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-D29ZQHHw.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y3+B9UL1xBiju7mtP5++eEFR0TsEzsUOzt7GATMko9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y3+B9UL1xBiju7mtP5++eEFR0TsEzsUOzt7GATMko9o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/icons-Du6TOHnR.plfff40fe0.woff2",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-Du6TOHnR.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0RmtZVFqKHKxt2zgZfNxrNZlamMPzgS+4jWGxwwDdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "plfff40fe0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/icons-Du6TOHnR.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0RmtZVFqKHKxt2zgZfNxrNZlamMPzgS+4jWGxwwDdM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/icons-Du6TOHnR.woff2",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-Du6TOHnR.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0RmtZVFqKHKxt2zgZfNxrNZlamMPzgS+4jWGxwwDdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0RmtZVFqKHKxt2zgZfNxrNZlamMPzgS+4jWGxwwDdM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/icons-RwhydX30.gedw61av4b.svg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-RwhydX30.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "390837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KCpk+2AM2sb/eQvQH5LdZx0QqYJ4zM9S+yJHmhiraTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gedw61av4b"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/icons-RwhydX30.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KCpk+2AM2sb/eQvQH5LdZx0QqYJ4zM9S+yJHmhiraTQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/icons-RwhydX30.svg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\icons-RwhydX30.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "390837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KCpk+2AM2sb/eQvQH5LdZx0QqYJ4zM9S+yJHmhiraTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KCpk+2AM2sb/eQvQH5LdZx0QqYJ4zM9S+yJHmhiraTQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CFs73B3O.7ou7yvq4i6.js",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\index-CFs73B3O.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "970146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B3UBHyE3VtEOTUCKZH2Gam2g0pTlkzJOHUNwq9ZJrU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ou7yvq4i6"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CFs73B3O.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B3UBHyE3VtEOTUCKZH2Gam2g0pTlkzJOHUNwq9ZJrU4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CFs73B3O.js",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\index-CFs73B3O.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "970146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B3UBHyE3VtEOTUCKZH2Gam2g0pTlkzJOHUNwq9ZJrU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B3UBHyE3VtEOTUCKZH2Gam2g0pTlkzJOHUNwq9ZJrU4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-s9bRAIC7.css",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\index-s9bRAIC7.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "595201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LW8ovGk5QhSSvVZjW9wT4n7e95rpjANEffS64N5jbnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LW8ovGk5QhSSvVZjW9wT4n7e95rpjANEffS64N5jbnE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-s9bRAIC7.rifhgmc1gl.css",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\index-s9bRAIC7.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "595201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LW8ovGk5QhSSvVZjW9wT4n7e95rpjANEffS64N5jbnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rifhgmc1gl"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-s9bRAIC7.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LW8ovGk5QhSSvVZjW9wT4n7e95rpjANEffS64N5jbnE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/logo.f5cdxhjv1z.png",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wxMhKdZj0qVu0kgxl/J/bMD6zR/VL60DUWccwRdMN6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f5cdxhjv1z"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxMhKdZj0qVu0kgxl/J/bMD6zR/VL60DUWccwRdMN6o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/logo.png",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wxMhKdZj0qVu0kgxl/J/bMD6zR/VL60DUWccwRdMN6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxMhKdZj0qVu0kgxl/J/bMD6zR/VL60DUWccwRdMN6o="
+        }
+      ]
+    },
+    {
+      "Route": "assets/outline-icons-aQ88nltS.rwvjf3onq0.woff",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-aQ88nltS.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S8NZwnBXs+0LrKZtbFNJpdSmBQlvvHh1Bhui2Ro9bQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rwvjf3onq0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/outline-icons-aQ88nltS.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S8NZwnBXs+0LrKZtbFNJpdSmBQlvvHh1Bhui2Ro9bQU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/outline-icons-aQ88nltS.woff",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-aQ88nltS.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S8NZwnBXs+0LrKZtbFNJpdSmBQlvvHh1Bhui2Ro9bQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S8NZwnBXs+0LrKZtbFNJpdSmBQlvvHh1Bhui2Ro9bQU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/outline-icons-BfdLr8tr.svg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-BfdLr8tr.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ro/QKnu4dHn+RqVB4upa9+NCOT6O+I01HNrxDOcc5gE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ro/QKnu4dHn+RqVB4upa9+NCOT6O+I01HNrxDOcc5gE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/outline-icons-BfdLr8tr.y0bm37js32.svg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-BfdLr8tr.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ro/QKnu4dHn+RqVB4upa9+NCOT6O+I01HNrxDOcc5gE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y0bm37js32"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/outline-icons-BfdLr8tr.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ro/QKnu4dHn+RqVB4upa9+NCOT6O+I01HNrxDOcc5gE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/outline-icons-DD8jm0uy.35v72bnbwz.ttf",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-DD8jm0uy.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zxchcur85FY3JeZhBD1duFS4Z2ip6L05dY2+gcR5aTU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "35v72bnbwz"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/outline-icons-DD8jm0uy.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zxchcur85FY3JeZhBD1duFS4Z2ip6L05dY2+gcR5aTU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/outline-icons-DD8jm0uy.ttf",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-DD8jm0uy.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zxchcur85FY3JeZhBD1duFS4Z2ip6L05dY2+gcR5aTU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zxchcur85FY3JeZhBD1duFS4Z2ip6L05dY2+gcR5aTU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/outline-icons-DInHoiqI.1vr1p7jex0.woff2",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-DInHoiqI.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSiDRDsk5CRSf2oKeqKJez33HyOdtANzxP92DkgUeAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1vr1p7jex0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/outline-icons-DInHoiqI.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSiDRDsk5CRSf2oKeqKJez33HyOdtANzxP92DkgUeAE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/outline-icons-DInHoiqI.woff2",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-DInHoiqI.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12240"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSiDRDsk5CRSf2oKeqKJez33HyOdtANzxP92DkgUeAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSiDRDsk5CRSf2oKeqKJez33HyOdtANzxP92DkgUeAE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/outline-icons-LX8adJ4n.eot",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-LX8adJ4n.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RTf6BjQO5iwmTp16TYqryrPee9osXMM0AQ9GtoMQb8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RTf6BjQO5iwmTp16TYqryrPee9osXMM0AQ9GtoMQb8s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/outline-icons-LX8adJ4n.htioedqc1p.eot",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\outline-icons-LX8adJ4n.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RTf6BjQO5iwmTp16TYqryrPee9osXMM0AQ9GtoMQb8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "htioedqc1p"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/outline-icons-LX8adJ4n.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RTf6BjQO5iwmTp16TYqryrPee9osXMM0AQ9GtoMQb8s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/placeholder.dlbf4ut9r1.png",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\placeholder.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cbSUJUb5Tn92vGh9Fu4FaHmZGa727gSGcExC2DQ9DdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dlbf4ut9r1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/placeholder.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cbSUJUb5Tn92vGh9Fu4FaHmZGa727gSGcExC2DQ9DdY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/placeholder.png",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\placeholder.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cbSUJUb5Tn92vGh9Fu4FaHmZGa727gSGcExC2DQ9DdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cbSUJUb5Tn92vGh9Fu4FaHmZGa727gSGcExC2DQ9DdY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/user.5ihs5al52n.png",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\user.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nWSw9JmPgIoXUUXDI/UBkdEhj2zsqD4RI15kcuogM1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ihs5al52n"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/user.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nWSw9JmPgIoXUUXDI/UBkdEhj2zsqD4RI15kcuogM1A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/user.png",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\assets\\user.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nWSw9JmPgIoXUUXDI/UBkdEhj2zsqD4RI15kcuogM1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Mar 2024 16:18:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nWSw9JmPgIoXUUXDI/UBkdEhj2zsqD4RI15kcuogM1A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"azALMy8iP+eBlIeXImuaT5LidhnPxsEA5HT8R+OEiW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-azALMy8iP+eBlIeXImuaT5LidhnPxsEA5HT8R+OEiW0="
+        }
+      ]
+    },
+    {
+      "Route": "index.l045ot0qby.html",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"azALMy8iP+eBlIeXImuaT5LidhnPxsEA5HT8R+OEiW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 21:10:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l045ot0qby"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-azALMy8iP+eBlIeXImuaT5LidhnPxsEA5HT8R+OEiW0="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Mar 2024 19:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "C:\\Users\\patri\\Documents\\Projects\\WebAppLearning\\Demo\\Reactivities\\API\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Mar 2024 19:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    }
+  ]
+}
