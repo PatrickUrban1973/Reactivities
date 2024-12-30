@@ -30,3 +30,4 @@ C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\Persistence\o
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
