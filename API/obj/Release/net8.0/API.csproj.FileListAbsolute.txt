@@ -168,3 +168,5 @@ C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Relea
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\API.pdb
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\API.genruntimeconfig.cache
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\ref\API.dll
+C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\API.sourcelink.json
+C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\staticwebassets.upToDateCheck.txt

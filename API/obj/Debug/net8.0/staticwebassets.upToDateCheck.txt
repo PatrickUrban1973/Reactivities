@@ -15,6 +15,7 @@ wwwroot\assets\icons-CHzK1VD9.eot
 wwwroot\assets\icons-D29ZQHHw.ttf
 wwwroot\assets\icons-Du6TOHnR.woff2
 wwwroot\assets\icons-RwhydX30.svg
+wwwroot\assets\index-BiW92THG.js
 wwwroot\assets\index-CFs73B3O.js
 wwwroot\assets\index-s9bRAIC7.css
 wwwroot\assets\logo.png

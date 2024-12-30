@@ -10,3 +10,4 @@ C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\Domain\obj\Re
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\Domain\obj\Release\net8.0\refint\Domain.dll
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\Domain\obj\Release\net8.0\Domain.pdb
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\Domain\obj\Release\net8.0\ref\Domain.dll
+C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\Domain\obj\Release\net8.0\Domain.sourcelink.json
