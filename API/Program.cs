@@ -25,10 +25,32 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 
 app.UseMiddleware<ExceptionMiddleware>();
+
+app.UseXContentTypeOptions();
+app.UseReferrerPolicy(c => c.NoReferrer());
+app.UseXXssProtection(x => x.EnabledWithBlockMode());
+app.UseXfo(c => c.Deny());
+app.UseCsp(c => c.BlockAllMixedContent()
+    .StyleSources(b => b.Self().CustomSources("https://fonts.googleapis.com"))
+    .FontSources(b => b.Self().CustomSources("https://fonts.gstatic.com", "data:"))
+    .FormActions(b => b.Self())
+    .FrameAncestors(b => b.Self())
+    .ImageSources(b => b.Self().CustomSources("blob:", "https://res.cloudinary.com"))
+    .ScriptSources(b => b.Self())
+);
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+}
+else
+{
+    app.Use(async (context, next) =>
+    {
+        context.Response.Headers.Append("Strict-Transport-Security", "max-age=31536000");
+        await next.Invoke();
+    });
 }
 
 app.UseCors("CorsPolicy");

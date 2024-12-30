@@ -44,6 +44,8 @@ C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Relea
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\PubTmp\Out\Microsoft.SqlServer.Server.dll
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\PubTmp\Out\NWebsec.AspNetCore.Core.dll
+C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\PubTmp\Out\NWebsec.AspNetCore.Middleware.dll
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

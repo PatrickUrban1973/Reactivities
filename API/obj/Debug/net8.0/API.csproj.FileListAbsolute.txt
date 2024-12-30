@@ -307,3 +307,5 @@ C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\bin\Debug
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\bin\Debug\net8.0\NWebsec.AspNetCore.Core.dll
+C:\Users\patri\Documents\Projects\WebAppLearning\Demo\Reactivities\API\bin\Debug\net8.0\NWebsec.AspNetCore.Middleware.dll
